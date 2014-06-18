@@ -14,10 +14,10 @@ $ ./YGETSUB.py kGYACultjCY my_subtitle.srt
 
 you will be asked the select the idiom of the subtitle. After this, it will be saved in my_subtitle.srt
 
-Class Methods
-=============
+XML To SRT (SubRip) Conversion
+==============================
 
-You can also use the class YGETSUB to convert a file in XML time format to SubRip time format:
+You can also use this to convert a file in XML time format to SubRip time format:
 
 <pre>
 from YGETSUB import YGETSUB
