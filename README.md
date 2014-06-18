@@ -1,7 +1,7 @@
 YGETSUB
 =======
 
-A simple youtube subtitles downloader. Also, it converts XML time format to SubRip time format.
+A simple python script to download youtube subtitles. Also, it converts XML time format to SubRip time format.
 
 Examples
 ========
